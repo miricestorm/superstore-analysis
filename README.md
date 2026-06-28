@@ -14,7 +14,7 @@ Tools: PostgreSQL, pandas, Matplotlib, Seaborn
 ## Key Insights
 
 **1. Category Analysis**
-- Tables generate the highest revenue but lowest profit margin
+- Tables sub-category has the highest revenue but generates a loss (-$17k profit)
 - Supplies sub-category is unprofitable (-$1,189 profit on $46k sales)
 - Paper has the best margin at 43% with high sales volume
 
@@ -63,5 +63,5 @@ Tools: PostgreSQL, pandas, Matplotlib, Seaborn
 
 ## Stack
 - **SQL**: PostgreSQL — window functions, CTEs, LAG, retention, churn, LTV
-- **Python**: pandas, numpy, Matplotlib, Seaborn
-- **Tools**: Jupyter Notebook, Postico, postgres's server
+- **Java**: pandas, numpy, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, Postico
