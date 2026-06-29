@@ -65,3 +65,8 @@ Tools: PostgreSQL, pandas, Matplotlib, Seaborn
 - **SQL**: PostgreSQL — window functions, CTEs, LAG, retention, churn, LTV
 - **Java**: pandas, numpy, Matplotlib, Seaborn
 - **Tools**: Jupyter Notebook, Postico
+
+## Dashboard
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/alex.ford1136/viz/Superstoresalesanalysis_17827324246270/SuperstoreSalesAnalysis)
+
+![Dashboard](images/Superstore_sales_analysis_dashboard.png)
